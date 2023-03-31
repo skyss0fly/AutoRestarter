@@ -1,7 +1,5 @@
 # AutoRestarter
-
-[![](https://poggit.pmmp.io/shield.api/AutoRestarter)](https://poggit.pmmp.io/p/AutoRestarter)
-[![](https://poggit.pmmp.io/shield.dl.total/AutoRestarter)](https://poggit.pmmp.io/p/AutoRestarter)
+coming back to pm4
 
 A PocketMine-MP plugin that automatically restart your server once the chosen time is up and who transfers your players to the IP and PORT chosen just before restarting !
 
